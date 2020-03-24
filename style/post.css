@@ -1,0 +1,19 @@
+.blog-post-intro header *:not(img) {
+  text-align: center;
+}
+
+.blog-post-intro header img {
+  margin-bottom: var(--size-scale-2);
+  margin-top: var(--size-scale-2);
+}
+
+.blog-post-intro section {
+  color: var(--gray);
+  line-height: 1.5;
+  padding: 0 var(--size-scale-1);
+}
+
+.blog-post-intro h3 {
+  color: var(--white);
+  font-size: var(--size-scale-1);
+}
