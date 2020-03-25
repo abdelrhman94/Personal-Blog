@@ -1,5 +1,6 @@
 @import url('./global.css');
 @import url('./header.css');
+@import url('./normalize.min.css');
 
 .featured-post {
   position: relative;
